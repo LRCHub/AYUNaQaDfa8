@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Highlight",
+  "base_artist": "KIRA",
+  "createdAt": "2025-12-11T01:51:35.081612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Highlight Reel",
+      "artist": "Julien Baker",
+      "has_synced": true,
+      "path": "select/01_Highlight_Reel_Julien_Baker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pom Pom Play Girl (Vocal Session Highlight)",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/02_Pom_Pom_Play_Girl_(Vocal_Session_Highlight)_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Highlight",
+      "artist": "Rezonate",
+      "has_synced": true,
+      "path": "select/03_Highlight_Rezonate.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Highlight of My Life",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/04_Highlight_of_My_Life_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Highlight",
+      "artist": "SEVENTEEN",
+      "has_synced": true,
+      "path": "select/05_Highlight_SEVENTEEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Highlight Reel",
+      "artist": "Jack Kays",
+      "has_synced": true,
+      "path": "select/06_Highlight_Reel_Jack_Kays.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Highlight Zone",
+      "artist": "Kissin' Dynamite",
+      "has_synced": true,
+      "path": "select/07_Highlight_Zone_Kissin'_Dynamite.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Highlight",
+      "artist": "4Minute",
+      "has_synced": true,
+      "path": "select/08_Highlight_4Minute.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Highlight",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/09_Highlight_Younha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Highlight",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/10_Highlight_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm So Young - Alternate Version Session Highlight / New Stereo Mix",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/11_I'm_So_Young_-_Alternate_Version_Session_Highlight___New_Stereo_Mix_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little Honda - Alternate Version Session Highlight / New Stereo Mix",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/12_Little_Honda_-_Alternate_Version_Session_Highlight___New_Stereo_Mix_The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She Knows Me Too Well - Vocal Session Highlight / Instrumental Mix With Backing Vocals",
+      "artist": "The Beach Boys",
+      "has_synced": false,
+      "path": "select/13_She_Knows_Me_Too_Well_-_Vocal_Session_Highlight___Instrumental_Mix_With_Backing__The_Beach_Boys.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Kill For The Highlight Reel",
+      "artist": "Save Face",
+      "has_synced": true,
+      "path": "select/14_Another_Kill_For_The_Highlight_Reel_Save_Face.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Highlight (feat. 初音ミク)",
+      "artist": "KIRA",
+      "has_synced": false,
+      "path": "select/pl_01_Highlight_(feat._初音ミク)_KIRA.txt"
+    }
+  ]
+}
